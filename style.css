@@ -1,0 +1,60 @@
+
+
+li{
+    list-style: none;
+}
+
+.kocak{
+    color: red;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1400px;
+}
+
+.header{
+    background-color: rgb(39, 163, 111);
+    color: white;
+    height: 90px;
+}
+.header-logo{
+    color: white;
+    font-size: 55px;
+    float: left;
+    padding: 13px 30px 13px 30px;
+}
+
+.header-list li {
+    float: left;
+    padding: 36px 60px;
+}
+
+.footer{
+    background-color: rgb(39, 163, 111);
+    height: 120px;
+    color: white;
+    padding: 40px;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+    font-style: italic;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
+
+.copy-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
